@@ -49,7 +49,7 @@
 - **Frontend:** React + Tailwind CSS + Framer Motion
 - **Backend:** Node.js + Express
 - **Database:** SQLite (local) / MongoDB (optional)
-- **Delivery:** QR code API + ngrok/localtunnel support
+- **Delivery:** Full Source Code.
 
 ---
 
