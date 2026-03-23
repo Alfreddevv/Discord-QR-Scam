@@ -14,9 +14,7 @@
   <a href="#admin">Admin</a>
 </p>
 
-<img src="docs/preview.gif" alt="Demo" width="700"/>
-
-</div>
+[Click here to purchase](https://alfreddevvd.mysellauth.com/product/webb)
 
 ---
 
@@ -32,11 +30,17 @@
 
 ---
 
-## 🧠 Overview
+## 📸 Pictures
 
-Modular acquisition tool designed for controlled security testing and educational research. Captures authentication tokens and payment information through simulated credential entry interfaces. All data is transmitted via encrypted webhooks with optional local persistence.
-
-**Use case:** Authorized penetration testing, security awareness demonstrations, red team exercises.
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825598.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825591.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825597.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825590.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825596.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825593.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825592.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825594.webp)](alfreddevvd.mysellauth.com)
+[![Alt text](https://alfreddevvd.mysellauth.com/storage/images/825595.webp)](alfreddevvd.mysellauth.com)
 
 ---
 
